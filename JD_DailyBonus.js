@@ -17,7 +17,7 @@
 
 var Key = ''; //单引号内自行填写您抓取的Cookie
 
-var DualKey = ''; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
+var DualKey = 'AAJgn10pADCWovRC_GQQFWDxFHYXvOuNqW70nWLPOGp4ejiKWUZXwA3xRS8SNMMQGeowMA9EFaA'; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
 
 /* 注1: 以上选项仅针对于JsBox或Node.js, 如果使用QX,Surge,Loon, 请使用脚本获取Cookie.
    注2: 双账号用户抓取"账号1"Cookie后, 请勿点击退出账号(可能会导致Cookie失效), 需清除浏览器资料或更换浏览器登录"账号2"抓取.
